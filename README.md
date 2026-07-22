@@ -77,17 +77,6 @@ AI/
 
 ---
 
-## Future Enhancements
-
-- Multiple document support
-- Conversation memory
-- Streamlit interface
-- FastAPI deployment
-- Response citations with page references
-- Docker support
-
----
-
 ## Author
 
 **Sreeja Voruganty**
